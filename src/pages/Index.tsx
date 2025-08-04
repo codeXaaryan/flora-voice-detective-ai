@@ -133,18 +133,7 @@ const Index = () => {
       </div>
 
       {/* Footer */}
-      <footer className="border-t border-primary/20 bg-white/30 backdrop-blur-sm">
-        <div className="container mx-auto px-4 py-8">
-          <div className="text-center text-muted-foreground">
-            <p className="mb-2">
-              Built with ❤️ for plant lovers worldwide
-            </p>
-            <p className="text-sm">
-              Powered by advanced AI • Multi-language support • Voice-enabled
-            </p>
-          </div>
-        </div>
-      </footer>
+      
     </div>
   );
 };
